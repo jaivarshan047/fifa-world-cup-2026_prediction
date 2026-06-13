@@ -1,17 +1,18 @@
 # fifa-world-cup-2026_prediction
 
-Overview
+OVERVIEW:
 
 This project uses Machine Learning to predict FIFA World Cup match outcomes (Win, Draw, Loss) using historical FIFA World Cup data from 1970 to 2022.
 
 The model is trained using team performance statistics and predicts the likely result between two teams.
 
 
-Dataset
+DATASET:
 
 FIFA World Cup Men's Match Dataset (1970–2022)
 
-Features used:
+
+FEATURES USED:
 
 Team Prior Win Rate
 
@@ -24,7 +25,7 @@ Opponent Current Form
 Head-to-Head Win Rate
 
 
-Target:
+TARGET:
 
 Win
 
@@ -33,12 +34,12 @@ Draw
 Loss
 
 
-Machine Learning Algorithm
+MACHINE LEARNING ALGORITHM:
 
 Random Forest Classifier
 
 
-Libraries Used
+LIBRARIES USED:
 
 Pandas
 
@@ -50,4 +51,4 @@ Joblib
 
 
 
-Current Accuracy: 51%
+CURRENT ACCURACY: 51%
